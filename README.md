@@ -1,4 +1,4 @@
-<img alt="web developer" width="100%" height="auto"  src="https://buat.web.id/wp-content/uploads/2020/02/Web-Design-Dan-Web-Developer-Di-Indonesia.gif" />
+
 <h1 align="center">Hi 👋, I'm Deepesh Arya</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
