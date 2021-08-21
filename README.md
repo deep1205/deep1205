@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/deepesh67158855" target="blank"><img src="https://img.shields.io/twitter/follow/deepesh67158855?logo=twitter&style=for-the-badge" alt="deepesh67158855" /></a> </p>
 
-- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **deepesharya.eee18@itbhu.ac.in**
 
