@@ -1,13 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Deepesh Arya</h1>
-<h3 align="center">A Self-learner,Enthuastic Full Stack Web Developer ,Programmer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep1205&label=Profile%20views&color=0e75b6&style=flat" alt="deep1205" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deepesh67158855" target="blank"><img src="https://img.shields.io/twitter/follow/deepesh67158855?logo=twitter&style=for-the-badge" alt="deepesh67158855" /></a> </p>
 
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **deepesharya.eee18@itbhu.ac.in**
+
+- ⚡ Fun fact **It is easier to stay awake until 5 am than to wake up at 5 am**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
