@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepesh Arya</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Full Stack  developer</h3>
+<img src="https://cdn.dribbble.com/users/2136630/screenshots/4389878/adopti_video_2.gif" width="100%" height="auto" alt="deepesh" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep1205&label=Profile%20views&color=0e75b6&style=flat" alt="deep1205" /> </p>
 
